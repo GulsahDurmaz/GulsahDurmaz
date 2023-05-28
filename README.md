@@ -2,7 +2,7 @@
 
 My name is Gülsah, I'm currently working on:
 
-- my personal website 🦦
+- C 🦦
 - Python 👩‍💻
 
 I **love** learning about creative coding, so don't hesitate to say hi!
